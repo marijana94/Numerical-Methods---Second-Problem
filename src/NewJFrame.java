@@ -64,7 +64,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
     static double f(double x) {
         return Math.cosh(x) + x - 2;
-    }
+    } 
 
     static double fprime(double x) {
         return Math.sinh(x) + 1;
